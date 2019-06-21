@@ -1,0 +1,10 @@
+def Notepad():
+    print("============================= Notepad =============================")
+    print("\nNotepad:")
+    print("\nSome significant snippets from the journal:")
+    print("\n…Can’t stop thinking about the job I had to do for Jack Napier. From what I have read, they were good people involved in a lot charity works…")
+    print("\n…Sansa and Rob seem to spend a lot of time together…")
+    print("\n…Put all the funds in the trust, available for Eric and his expenses only…")
+    print("\nSafe hint:")
+    print("SafeCombo=[401, 503, 1043, 931, 301, 3, 450, 601, 33, 420, 577, 10, 640, 1500, 467, 500, 333, 204, 233, 1, 799, 555, 831, 1099, 155, 630, 7, 134, 350, 99, 101, 477, 499, 44, 256, 1281, 660, 603, 88, 522, 187, 501, 1421, 1134]")
+    print("indexes 10, 33, 467, 1099, 1421")
